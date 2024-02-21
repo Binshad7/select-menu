@@ -56,3 +56,7 @@
 .hide{
     visibility: hidden;
 }
+a{
+    text-decoration: none;
+    color: black;
+}
